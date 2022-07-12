@@ -35,3 +35,8 @@
 .gray-text{
     color: gray;
 }
+
+.resize img{
+    height: 24px;
+    width: 24px;
+}
