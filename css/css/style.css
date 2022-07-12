@@ -2,3 +2,36 @@
     width: 198.07px;
     height: 59px;
 }
+
+.btn{
+    --bs-btn-border-radius: 1.5rem;
+}
+
+.banner-img img{
+    width: 100%;
+}
+
+.green-text{
+    color: #21B573;
+}
+
+.ban-text{
+    font-size: 48px;
+    font-weight: bolder;
+}
+.box{
+    background-color: #F0FFF0;
+}
+
+.card{
+    --bs-card-bg: none;
+    --bs-card-border-color: none;
+}
+
+.orange-text{
+    color: #FD511A;
+}
+
+.gray-text{
+    color: gray;
+}
