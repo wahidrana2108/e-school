@@ -1,18 +1,4 @@
-
-
-.bold-text{
-    font-weight: bolder;
-}
-
-.footer-text{
-    color: #FFFFFF;
-}
-
-.gray-box{
-    background-color: #282531;
-}
-
-
-.footer-text a:link{
-    text-decoration: none;
+.prob img{
+    max-width: 30%; 
+    height:auto
 }

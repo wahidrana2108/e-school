@@ -56,3 +56,8 @@
 .footer-text a:link{
     text-decoration: none;
 }
+
+.prob img{
+    max-width: 30%; 
+    height:auto
+}
