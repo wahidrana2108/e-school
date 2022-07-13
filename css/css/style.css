@@ -40,3 +40,19 @@
     height: 24px;
     width: 24px;
 }
+
+.testimonial .card{
+    --bs-card-border-color: none;
+}
+
+.footer-text{
+    color: #FFFFFF;
+}
+
+.gray-box{
+    background-color: #282531;
+}
+
+.footer-text a:link{
+    text-decoration: none;
+}
